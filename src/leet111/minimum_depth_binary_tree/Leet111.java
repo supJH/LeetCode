@@ -23,37 +23,7 @@ public class Leet111 {
         System.out.println(depth);
     }
 
-//    public int minDepth(TreeNode root) {
-//        if (root == null) return 0;
-//        if(root.left == null && root.right == null) return 1;
-//        int minDepth = 1;
-//        LinkedList<TreeNode> queue = new LinkedList<>();
-//        queue = iterInRow(queue, root);
-//        int i = 1;
-//        while (!queue.isEmpty()) {
-//            TreeNode outNode = queue.removeFirst();
-//            i++;
-//            if (outNode.right == null && outNode.left == null) {
-//                int j = 1;
-//                while ((i = i >>> 1) != 0) {
-//                    j++;
-//                }
-//                return j;
-//            }
-//        }
-//        return minDepth;
-//    }
-//
-//
-//    public LinkedList<TreeNode> iterInRow(LinkedList<TreeNode> queue, TreeNode node) {
-//        if (node == null) {
-//            return  queue;
-//        }
-//        queue.add(node);
-//        iterInRow(queue, node.left);
-//        iterInRow(queue, node.right);
-//        return queue;
-//    }
+
 
     public int minDepth(TreeNode root) {
         if (root == null) return 0;
