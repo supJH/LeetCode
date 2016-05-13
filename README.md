@@ -1,5 +1,5 @@
 # LeetCode
-my code for leetcode
+my code for leetcode in JAVA
 
 ****
 ###　　　　　　　　　　　　    Author:Ji Hui
