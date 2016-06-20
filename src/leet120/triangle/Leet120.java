@@ -28,12 +28,11 @@ public class Leet120 {
             add(3);
         }};
 
-        List<List<Integer>> lists = new ArrayList<List<Integer>>() {{
-            add(list1);
-            add(list2);
-            add(list3);
-            add(list4);
-        }};
+        List<List<Integer>> lists = new ArrayList<List<Integer>>();
+        lists.add(list1);
+        lists.add(list2);
+        lists.add(list3);
+        lists.add(list4);
 
 
         Leet120 l = new Leet120();
