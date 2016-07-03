@@ -1,4 +1,4 @@
-package leet50.pow;
+package leet050.pow;
 
 /**
  * Created by Administrator on 2016/6/22.

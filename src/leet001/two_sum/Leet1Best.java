@@ -1,6 +1,8 @@
 package leet001.two_sum;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Leet1Best{
 

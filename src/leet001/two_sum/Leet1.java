@@ -1,6 +1,6 @@
 package leet001.two_sum;
 
-import java.util.*;
+import java.util.Arrays;
 
 public class Leet1{
 

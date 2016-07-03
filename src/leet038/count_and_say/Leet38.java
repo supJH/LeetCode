@@ -1,7 +1,4 @@
-package leet38.count_and_say;
-
-import java.util.HashMap;
-import java.util.Set;
+package leet038.count_and_say;
 
 /**
  * The count-and-say sequence is the sequence of integers beginning as follows:

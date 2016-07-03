@@ -1,6 +1,9 @@
 package leet187.repeated_dna_seq;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
 
 /**
  * Created by Administrator on 2016/4/21.

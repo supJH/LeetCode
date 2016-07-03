@@ -1,4 +1,4 @@
-package leet50.pow;
+package leet050.pow;
 
 /**
  * Implement pow(x, n).

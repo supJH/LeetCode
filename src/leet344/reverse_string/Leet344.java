@@ -1,7 +1,5 @@
 package leet344.reverse_string;
 
-import leet187.repeated_dna_seq.Leet187;
-
 /**
  * Created by Administrator on 2016/4/24.
  */
@@ -9,7 +7,7 @@ public class Leet344 {
 
     public static void main(String[] args){
         Leet344 l = new Leet344();
-        String result = l.reverseString("ÖÐ¹ú");
+        String result = l.reverseString("ï¿½Ð¹ï¿½");
         System.out.println(result);
 
 
